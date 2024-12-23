@@ -1,0 +1,26 @@
+
+:root{
+
+    
+}
+main {
+    min-height: 100vh;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    overflow: hidden;
+}
+
+.card {
+    padding: 10px 20px;
+    background:#323544;
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    height: 100% !important;
+}
+body{
+    background-color: #1E202B;
+}
+nav{
+
+}
